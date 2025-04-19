@@ -1,5 +1,8 @@
 # Bank Microservices Application
 
+## Project architecture
+[View architecture as svg](microservices_bank_app_architecture.svg)
+
 ## Project Overview
 This project is a pseudo-banking application built with a microservices architecture. It comprises three main microservices:
 - **Accounts**: Manages customer and customer's account information.
