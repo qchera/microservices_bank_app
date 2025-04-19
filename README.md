@@ -1,8 +1,8 @@
 # Bank Microservices Application
 
 ## Project architecture
-[View architecture as svg](microservices_bank_app_architecture.svg)
-[View architecture as excalidraw link](https://excalidraw.com/#json=GwUotDyyxg9h8p6uNIsq9,mi-JQkpiqFopQx0YMg7R4A)
+- [View architecture as svg](microservices_bank_app_architecture.svg) 
+- [View architecture as excalidraw link](https://excalidraw.com/#json=GwUotDyyxg9h8p6uNIsq9,mi-JQkpiqFopQx0YMg7R4A)
 
 ## Project Overview
 This project is a pseudo-banking application built with a microservices architecture. It comprises three main microservices:
